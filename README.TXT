@@ -11,3 +11,4 @@ USER INSTRUCTIONS:
 6) This will run the program, and you can read how to use this on the screen, but for the face cards use either j, q, k, a or J, Q, K, A....typing in Ace or the like won't work
 7) For those that understand, this program as an infinite loop (meaning the program won't end) unless you hit the X letter key in between high low rounds, you hit Cntl+Shift+R, or you right click on the little moving "candy cane" icon at the bottom left corner of the Blue J HiLowCalculator window...or you can open task manager and kill the program :)  
 8) I know this is complicated for the audience it's intended for, but this does open and it does work!
+9) Please visit the Torn forum post for questions and answers!
