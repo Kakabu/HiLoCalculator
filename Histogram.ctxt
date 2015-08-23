@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Histogram()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Histogram\r\n
+comment1.params=roundNum
+comment1.target=void\ addLoss(int)
+comment1.text=\r\n\ Adds\ a\ loss\ to\ the\ histogram\ at\ the\ specified\ number\ of\ rounds\r\n\ \r\n\ @param\ roundNum\:\ int.\ The\ number\ of\ the\ round\ where\ we\ lost\ a\ game\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Returns\ a\ string\ form\ of\ the\ histogram\r\n
+numComments=3
